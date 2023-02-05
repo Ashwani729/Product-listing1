@@ -1,0 +1,1629 @@
+[
+    {
+        "type": "ProductSummaryValue",
+        "idealFor": "MEN",
+        "id": "TSHGBKQGY2BJGNYE",
+        "itemId": "ITM578071F5AC354",
+        "media": {
+            "images": [
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/kzllrbk0/t-shirt/b/6/d/l-bylrn-z31-blive-original-imagbkqgknxgmncw.jpeg?q={@quality}",
+                    "width": null
+                },
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/kzu6efk0/t-shirt/4/d/c/xs-bylrn-z31-blive-original-imagbr9hgvzhsvrh.jpeg?q={@quality}",
+                    "width": null
+                }
+            ]
+        },
+        "pricing": {
+            "type": "ListingPriceValue",
+            "deliveryCharge": {
+                "currency": "INR",
+                "decimalValue": "0.00",
+                "discount": null,
+                "downpaymentRate": 0,
+                "downpaymentRequired": false,
+                "name": "Delivery Charges",
+                "priceType": null,
+                "strikeOff": false,
+                "value": 0
+            },
+            "discountAmount": 1840,
+            "extraDiscount": null,
+            "finalPrice": {
+                "currency": "INR",
+                "decimalValue": "159.00",
+                "discount": null,
+                "downpaymentRate": 0,
+                "downpaymentRequired": false,
+                "name": "Total",
+                "priceType": null,
+                "strikeOff": false,
+                "value": 159
+            },
+            "finalSavingsText": null,
+            "knowMore": null,
+            "listingPriceType": null,
+            "partPriceInfo": null,
+            "plusPriceInfo": null,
+            "priceDescriptions": null,
+            "pricePerUnit": null,
+            "priceTags": null,
+            "prices": [
+                {
+                    "currency": "INR",
+                    "decimalValue": "1999.00",
+                    "discount": 92,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Selling Price",
+                    "priceType": "FSP",
+                    "strikeOff": true,
+                    "value": 1999
+                },
+                {
+                    "currency": "INR",
+                    "decimalValue": "159.00",
+                    "discount": null,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Special Price",
+                    "priceType": "SPECIAL_PRICE",
+                    "strikeOff": false,
+                    "value": 159
+                }
+            ]
+        },
+        "productBrand": "BLIVE",
+        "productCardTagDetails": [
+            {
+                "image": {
+                    "type": "ImageValue",
+                    "dynamicImageUrl": "https://rukminim1.flixcart.com/www/{@width}/{@height}/promos/21/07/2017/e8625e14-3277-4f16-a4d4-df8ed525905b.png?q={@quality}",
+                    "height": 0,
+                    "width": 0
+                },
+                "tagDetails": null,
+                "type": "F_ASSURED"
+            }
+        ],
+        "rating": {
+            "type": "RatingValue",
+            "average": 3.8,
+            "base": 5,
+            "breakup": [
+                87,
+                41,
+                59,
+                64,
+                302
+            ],
+            "count": 553,
+            "histogramBaseCount": 302,
+            "reviewCount": 44
+        },
+        "smartUrl": "https://dl.flipkart.com/dl/blive-printed-men-round-neck-yellow-t-shirt/p/itm578071f5ac354?pid=TSHGBKQGY2BJGNYE",
+        "tags": [],
+        "titles": {
+            "coSubtitle": "Size: S",
+            "newTitle": "Printed Men Round Neck Yellow T-Shirt",
+            "superTitle": "BLIVE",
+            "title": "BLIVE Printed Men Round Neck Yellow T-Shirt"
+        },
+        "vertical": "t_shirt"
+    },
+    {
+        "type": "ProductSummaryValue",
+        "idealFor": "MEN",
+        "availability": {
+            "MessageIntent": "positive",
+            "displayState": "IN_STOCK",
+            "intent": "positive",
+            "enableFlipkartAdvantage": true,
+            "enableOfferTag": true,
+            "enableVisualDiscovery": false,
+            "enableWishlist": true,
+            "showSecondaryTitle": true,
+            "swatchAvailableOnBrowsePage": true
+        },
+        "grade": {
+            "color": null,
+            "id": null,
+            "name": null,
+            "shortDesc": null
+        },
+        "id": "TSHFT55WHXHTHSY2",
+        "itemId": "ITMA5EFB091041C0",
+        "media": {
+            "images": [
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/kbwjvrk0/t-shirt/x/k/z/xl-jc19-hs-brgdy-nv-slv-str-wt-ylbl-str-jump-cuts-original-imaft5g9fzcmpn9d.jpeg?q={@quality}",
+                    "width": null
+                }
+            ]
+        },
+        "pricing": {
+            "type": "ListingPriceValue",
+            "deliveryCharge": {
+                "currency": "INR",
+                "decimalValue": "0.00",
+                "discount": null,
+                "downpaymentRate": 0,
+                "downpaymentRequired": false,
+                "name": "Delivery Charges",
+                "priceType": null,
+                "strikeOff": false,
+                "value": 0
+            },
+            "discountAmount": 1075,
+            "extraDiscount": null,
+            "finalPrice": {
+                "currency": "INR",
+                "decimalValue": "424.00",
+                "discount": null,
+                "downpaymentRate": 0,
+                "downpaymentRequired": false,
+                "name": "Total",
+                "priceType": null,
+                "strikeOff": false,
+                "value": 424
+            },
+            "finalSavingsText": null,
+            "knowMore": null,
+            "listingPriceType": null,
+            "partPriceInfo": null,
+            "plusPriceInfo": null,
+            "priceDescriptions": null,
+            "pricePerUnit": null,
+            "priceTags": null,
+            "prices": [
+                {
+                    "currency": "INR",
+                    "decimalValue": "1499.00",
+                    "discount": 71,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Selling Price",
+                    "priceType": "FSP",
+                    "strikeOff": true,
+                    "value": 1499
+                },
+                {
+                    "currency": "INR",
+                    "decimalValue": "424.00",
+                    "discount": null,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Special Price",
+                    "priceType": "SPECIAL_PRICE",
+                    "strikeOff": false,
+                    "value": 424
+                }
+            ]
+        },
+        "productBrand": "Jump Cuts",
+        "productCardTagDetails": [
+            {
+                "image": {
+                    "type": "ImageValue",
+                    "dynamicImageUrl": "https://rukminim1.flixcart.com/www/{@width}/{@height}/promos/21/07/2017/e8625e14-3277-4f16-a4d4-df8ed525905b.png?q={@quality}",
+                    "height": 0,
+                    "width": 0
+                },
+                "tagDetails": null,
+                "type": "F_ASSURED"
+            }
+        ],
+        "rating": {
+            "type": "RatingValue",
+            "average": 3.9,
+            "base": 5,
+            "breakup": [
+                435,
+                266,
+                696,
+                1064,
+                2157
+            ],
+            "count": 4618,
+            "histogramBaseCount": 2157,
+            "reviewCount": 625
+        },
+        "smartUrl": "https://dl.flipkart.com/dl/jump-cuts-striped-men-round-neck-dark-blue-white-brown-t-shirt/p/itma5efb091041c0?pid=TSHFT55WHXHTHSY2",
+        "tags": [],
+        "titles": {
+            "coSubtitle": "Size: M",
+            "newTitle": "Striped Men Round Neck Dark Blue, White, Brown T-Shirt",
+            "subtitle": "Pack of 3",
+            "superTitle": "Jump Cuts",
+            "title": "Jump Cuts Striped Men Round Neck Dark Blue, White, Brown T-Shirt"
+        },
+        "vertical": "t_shirt"
+    },
+    {
+        "type": "ProductSummaryValue",
+        "idealFor": "MEN",
+        "availability": {
+            "MessageIntent": "positive",
+            "displayState": "IN_STOCK",
+            "intent": "positive",
+            "enableFlipkartAdvantage": true,
+            "enableOfferTag": true,
+            "enableVisualDiscovery": false,
+            "enableWishlist": true,
+            "showSecondaryTitle": true,
+            "swatchAvailableOnBrowsePage": true
+        },
+        "grade": {
+            "color": null,
+            "id": null,
+            "name": null,
+            "shortDesc": null
+        },
+        "id": "TSHFDFTFFR2QUDWV",
+        "itemId": "ITMFDFVUFW3FMUHZ",
+        "media": {
+            "images": [
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/kf1fo280hlty2aw-0/t-shirt/w/s/e/-original-imafdfvvr8hqdu65.jpeg?q={@quality}",
+                    "width": null
+                },
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/kf1fo280hlty2aw-0/t-shirt/i/c/s/-original-imafey9zzwxwjfum.jpeg?q={@quality}",
+                    "width": null
+                },
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/kf1fo280hlty2aw-0/t-shirt/b/o/e/-original-imafdfvvzycg62dp.jpeg?q={@quality}",
+                    "width": null
+                },
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/kf1fo280hlty2aw-0/t-shirt/e/d/t/-original-imafdfvv9kccjk9y.jpeg?q={@quality}",
+                    "width": null
+                }
+            ]
+        },
+        "pricing": {
+            "type": "ListingPriceValue",
+            "deliveryCharge": {
+                "currency": "INR",
+                "decimalValue": "0.00",
+                "discount": null,
+                "downpaymentRate": 0,
+                "downpaymentRequired": false,
+                "name": "Delivery Charges",
+                "priceType": null,
+                "strikeOff": false,
+                "value": 0
+            },
+            "discountAmount": 852,
+            "extraDiscount": null,
+            "finalPrice": {
+                "currency": "INR",
+                "decimalValue": "147.00",
+                "discount": null,
+                "downpaymentRate": 0,
+                "downpaymentRequired": false,
+                "name": "Total",
+                "priceType": null,
+                "strikeOff": false,
+                "value": 147
+            },
+            "finalSavingsText": null,
+            "knowMore": null,
+            "listingPriceType": null,
+            "partPriceInfo": null,
+            "plusPriceInfo": null,
+            "priceDescriptions": null,
+            "pricePerUnit": null,
+            "priceTags": null,
+            "prices": [
+                {
+                    "currency": "INR",
+                    "decimalValue": "999.00",
+                    "discount": 85,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Selling Price",
+                    "priceType": "FSP",
+                    "strikeOff": true,
+                    "value": 999
+                },
+                {
+                    "currency": "INR",
+                    "decimalValue": "147.00",
+                    "discount": null,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Special Price",
+                    "priceType": "SPECIAL_PRICE",
+                    "strikeOff": false,
+                    "value": 147
+                }
+            ]
+        },
+        "productBrand": "HELMONT",
+        "productCardTagDetails": [
+            {
+                "image": {
+                    "type": "ImageValue",
+                    "dynamicImageUrl": "https://rukminim1.flixcart.com/www/{@width}/{@height}/promos/21/07/2017/e8625e14-3277-4f16-a4d4-df8ed525905b.png?q={@quality}",
+                    "height": 0,
+                    "width": 0
+                },
+                "tagDetails": null,
+                "type": "F_ASSURED"
+            }
+        ],
+        "rating": {
+            "type": "RatingValue",
+            "average": 4,
+            "base": 5,
+            "breakup": [
+                26897,
+                16206,
+                33335,
+                48829,
+                148700
+            ],
+            "count": 273967,
+            "histogramBaseCount": 148700,
+            "reviewCount": 33100
+        },
+        "smartUrl": "https://dl.flipkart.com/dl/helmont-striped-men-hooded-neck-red-black-t-shirt/p/itmfdfvufw3fmuhz?pid=TSHFDFTFFR2QUDWV",
+        "tags": [],
+        "titles": {
+            "coSubtitle": "Size: L",
+            "newTitle": "Striped Men Hooded Neck Red, Black T-Shirt",
+            "superTitle": "HELMONT",
+            "title": "HELMONT Striped Men Hooded Neck Red, Black T-Shirt"
+        },
+        "vertical": "t_shirt"
+    },
+    {
+        "type": "ProductSummaryValue",
+        "idealFor": "MEN",
+        "availability": {
+            "MessageIntent": "positive",
+            "displayState": "IN_STOCK",
+            "intent": "positive",
+            "enableFlipkartAdvantage": true,
+            "enableOfferTag": true,
+            "enableVisualDiscovery": false,
+            "enableWishlist": true,
+            "showSecondaryTitle": true,
+            "swatchAvailableOnBrowsePage": true
+        },
+        "grade": {
+            "color": null,
+            "id": null,
+            "name": null,
+            "shortDesc": null
+        },
+        "id": "TSHFWP4WHNHTJNJS",
+        "itemId": "ITMB60B30CF01E38",
+        "media": {
+            "images": [
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/kuh9yfk0/t-shirt/n/c/s/s-p62-navymrn-leotude-original-imag7h6vpfk8mpja.jpeg?q={@quality}",
+                    "width": null
+                },
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/kkmwr680/t-shirt/j/j/a/m-p62-mrnblk-leotude-original-imafzxw4hqwh2n43.jpeg?q={@quality}",
+                    "width": null
+                }
+            ]
+        },
+        "pricing": {
+            "type": "ListingPriceValue",
+            "deliveryCharge": {
+                "currency": "INR",
+                "decimalValue": "0.00",
+                "discount": null,
+                "downpaymentRate": 0,
+                "downpaymentRequired": false,
+                "name": "Delivery Charges",
+                "priceType": null,
+                "strikeOff": false,
+                "value": 0
+            },
+            "discountAmount": 822,
+            "extraDiscount": null,
+            "finalPrice": {
+                "currency": "INR",
+                "decimalValue": "277.00",
+                "discount": null,
+                "downpaymentRate": 0,
+                "downpaymentRequired": false,
+                "name": "Total",
+                "priceType": null,
+                "strikeOff": false,
+                "value": 277
+            },
+            "finalSavingsText": null,
+            "knowMore": null,
+            "listingPriceType": null,
+            "partPriceInfo": null,
+            "plusPriceInfo": {
+                "type": "FormattedMessageValue",
+                "data": [
+                    {
+                        "type": "FormattedRichTextData",
+                        "value": {
+                            "type": "RichTextValue",
+                            "style": {
+                                "color": "#000000",
+                                "fontSize": 12,
+                                "fontStyle": "normal",
+                                "fontWeight": "normal"
+                            },
+                            "text": "Free delivery"
+                        }
+                    }
+                ]
+            },
+            "priceDescriptions": null,
+            "pricePerUnit": null,
+            "priceTags": null,
+            "prices": [
+                {
+                    "currency": "INR",
+                    "decimalValue": "1099.00",
+                    "discount": 74,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Selling Price",
+                    "priceType": "FSP",
+                    "strikeOff": true,
+                    "value": 1099
+                },
+                {
+                    "currency": "INR",
+                    "decimalValue": "277.00",
+                    "discount": null,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Special Price",
+                    "priceType": "SPECIAL_PRICE",
+                    "strikeOff": false,
+                    "value": 277
+                }
+            ]
+        },
+        "productBrand": "Leotude",
+        "productCardTagDetails": [
+            {
+                "image": {
+                    "type": "ImageValue",
+                    "dynamicImageUrl": "https://rukminim1.flixcart.com/www/{@width}/{@height}/promos/21/07/2017/e8625e14-3277-4f16-a4d4-df8ed525905b.png?q={@quality}",
+                    "height": 0,
+                    "width": 0
+                },
+                "tagDetails": null,
+                "type": "F_ASSURED"
+            }
+        ],
+        "rating": {
+            "type": "RatingValue",
+            "average": 3.9,
+            "base": 5,
+            "breakup": [
+                291,
+                195,
+                393,
+                608,
+                1448
+            ],
+            "count": 2935,
+            "histogramBaseCount": 1448,
+            "reviewCount": 288
+        },
+        "smartUrl": "https://dl.flipkart.com/dl/leotude-color-block-men-polo-neck-multicolor-t-shirt/p/itmb60b30cf01e38?pid=TSHFWP4WHNHTJNJS",
+        "tags": [],
+        "titles": {
+            "coSubtitle": "Size: XXL",
+            "newTitle": "Color Block Men Polo Neck Multicolor T-Shirt",
+            "superTitle": "Leotude",
+            "title": "Leotude Color Block Men Polo Neck Multicolor T-Shirt"
+        },
+        "vertical": "t_shirt"
+    },
+    {
+        "type": "ProductSummaryValue",
+        "idealFor": "MEN",
+        "availability": {
+            "MessageIntent": "positive",
+            "displayState": "IN_STOCK",
+            "intent": "positive",
+            "enableFlipkartAdvantage": true,
+            "enableOfferTag": true,
+            "enableVisualDiscovery": false,
+            "enableWishlist": true,
+            "showSecondaryTitle": true,
+            "swatchAvailableOnBrowsePage": true
+        },
+        "grade": {
+            "color": null,
+            "id": null,
+            "name": null,
+            "shortDesc": null
+        },
+        "id": "TSHFZKGHYGHXZFM5",
+        "itemId": "ITM8398FEB09EB95",
+        "media": {
+            "images": [
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/kkfrjww0/t-shirt/h/1/t/l-t312-cgblwh-new-eyebogler-original-imafzs5hrjgzsfpr.jpeg?q={@quality}",
+                    "width": null
+                },
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/kk5rgy80/t-shirt/m/r/t/xxl-t312-cgblwh-new-eyebogler-original-imafzkggrq8thkpg.jpeg?q={@quality}",
+                    "width": null
+                }
+            ]
+        },
+        "pricing": {
+            "type": "ListingPriceValue",
+            "deliveryCharge": {
+                "currency": "INR",
+                "decimalValue": "0.00",
+                "discount": null,
+                "downpaymentRate": 0,
+                "downpaymentRequired": false,
+                "name": "Delivery Charges",
+                "priceType": null,
+                "strikeOff": false,
+                "value": 0
+            },
+            "discountAmount": 1050,
+            "extraDiscount": null,
+            "finalPrice": {
+                "currency": "INR",
+                "decimalValue": "249.00",
+                "discount": null,
+                "downpaymentRate": 0,
+                "downpaymentRequired": false,
+                "name": "Total",
+                "priceType": null,
+                "strikeOff": false,
+                "value": 249
+            },
+            "finalSavingsText": null,
+            "knowMore": null,
+            "listingPriceType": null,
+            "partPriceInfo": null,
+            "plusPriceInfo": null,
+            "priceDescriptions": null,
+            "pricePerUnit": null,
+            "priceTags": null,
+            "prices": [
+                {
+                    "currency": "INR",
+                    "decimalValue": "1299.00",
+                    "discount": 80,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Selling Price",
+                    "priceType": "FSP",
+                    "strikeOff": true,
+                    "value": 1299
+                },
+                {
+                    "currency": "INR",
+                    "decimalValue": "249.00",
+                    "discount": null,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Special Price",
+                    "priceType": "SPECIAL_PRICE",
+                    "strikeOff": false,
+                    "value": 249
+                }
+            ]
+        },
+        "productBrand": "Eyebogler",
+        "productCardTagDetails": [
+            {
+                "image": {
+                    "type": "ImageValue",
+                    "dynamicImageUrl": "https://rukminim1.flixcart.com/www/{@width}/{@height}/promos/21/07/2017/e8625e14-3277-4f16-a4d4-df8ed525905b.png?q={@quality}",
+                    "height": 0,
+                    "width": 0
+                },
+                "tagDetails": null,
+                "type": "F_ASSURED"
+            }
+        ],
+        "rating": {
+            "type": "RatingValue",
+            "average": 3.9,
+            "base": 5,
+            "breakup": [
+                7697,
+                4174,
+                6535,
+                8621,
+                30682
+            ],
+            "count": 57709,
+            "histogramBaseCount": 30682,
+            "reviewCount": 5352
+        },
+        "smartUrl": "https://dl.flipkart.com/dl/eyebogler-color-block-men-round-neck-grey-t-shirt/p/itm8398feb09eb95?pid=TSHFZKGHYGHXZFM5",
+        "tags": [],
+        "titles": {
+            "coSubtitle": "Size: S",
+            "newTitle": "Color Block Men Round Neck Grey T-Shirt",
+            "superTitle": "Eyebogler",
+            "title": "Eyebogler Color Block Men Round Neck Grey T-Shirt"
+        },
+        "vertical": "t_shirt"
+    },
+    {
+        "type": "ProductSummaryValue",
+        "idealFor": "MEN",
+        "availability": {
+            "MessageIntent": "positive",
+            "displayState": "IN_STOCK",
+            "intent": "positive",
+            "enableFlipkartAdvantage": true,
+            "enableOfferTag": true,
+            "enableVisualDiscovery": false,
+            "enableWishlist": true,
+            "showSecondaryTitle": true,
+            "swatchAvailableOnBrowsePage": true
+        },
+        "grade": {
+            "color": null,
+            "id": null,
+            "name": null,
+            "shortDesc": null
+        },
+        "id": "TSHGA4MHWRQHJNZQ",
+        "itemId": "ITM07B4115EF6413",
+        "media": {
+            "images": [
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/kzegk280/t-shirt/r/o/t/s-t285hs-as7whdngr-eyebogler-original-imagbfygwtubscjw.jpeg?q={@quality}",
+                    "width": null
+                },
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/khnqqa80-0/t-shirt/1/f/n/xl-t285hs-as7whdngr-seven-rocks-original-imafxma4svhfgfqp.jpeg?q={@quality}",
+                    "width": null
+                },
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/khnqqa80-0/t-shirt/1/a/u/xl-t285hs-as7whdngr-seven-rocks-original-imafxma4ujhshqcr.jpeg?q={@quality}",
+                    "width": null
+                }
+            ]
+        },
+        "pricing": {
+            "type": "ListingPriceValue",
+            "deliveryCharge": {
+                "currency": "INR",
+                "decimalValue": "0.00",
+                "discount": null,
+                "downpaymentRate": 0,
+                "downpaymentRequired": false,
+                "name": "Delivery Charges",
+                "priceType": null,
+                "strikeOff": false,
+                "value": 0
+            },
+            "discountAmount": 1000,
+            "extraDiscount": null,
+            "finalPrice": {
+                "currency": "INR",
+                "decimalValue": "299.00",
+                "discount": null,
+                "downpaymentRate": 0,
+                "downpaymentRequired": false,
+                "name": "Total",
+                "priceType": null,
+                "strikeOff": false,
+                "value": 299
+            },
+            "finalSavingsText": null,
+            "knowMore": null,
+            "listingPriceType": null,
+            "partPriceInfo": null,
+            "plusPriceInfo": null,
+            "priceDescriptions": null,
+            "pricePerUnit": null,
+            "priceTags": null,
+            "prices": [
+                {
+                    "currency": "INR",
+                    "decimalValue": "1299.00",
+                    "discount": 76,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Selling Price",
+                    "priceType": "FSP",
+                    "strikeOff": true,
+                    "value": 1299
+                },
+                {
+                    "currency": "INR",
+                    "decimalValue": "299.00",
+                    "discount": null,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Special Price",
+                    "priceType": "SPECIAL_PRICE",
+                    "strikeOff": false,
+                    "value": 299
+                }
+            ]
+        },
+        "productBrand": "Eyebogler",
+        "productCardTagDetails": [
+            {
+                "image": {
+                    "type": "ImageValue",
+                    "dynamicImageUrl": "https://rukminim1.flixcart.com/www/{@width}/{@height}/promos/21/07/2017/e8625e14-3277-4f16-a4d4-df8ed525905b.png?q={@quality}",
+                    "height": 0,
+                    "width": 0
+                },
+                "tagDetails": null,
+                "type": "F_ASSURED"
+            }
+        ],
+        "rating": {
+            "type": "RatingValue",
+            "average": 4.3,
+            "base": 5,
+            "breakup": [
+                15,
+                10,
+                26,
+                68,
+                184
+            ],
+            "count": 303,
+            "histogramBaseCount": 184,
+            "reviewCount": 27
+        },
+        "smartUrl": "https://dl.flipkart.com/dl/eyebogler-striped-men-polo-neck-multicolor-t-shirt/p/itm07b4115ef6413?pid=TSHGA4MHWRQHJNZQ",
+        "tags": [],
+        "titles": {
+            "coSubtitle": "Size: S",
+            "newTitle": "Striped Men Polo Neck Multicolor T-Shirt",
+            "superTitle": "Eyebogler",
+            "title": "Eyebogler Striped Men Polo Neck Multicolor T-Shirt"
+        },
+        "vertical": "t_shirt"
+    },
+    {
+        "type": "ProductSummaryValue",
+        "idealFor": "WOMEN",
+        "availability": {
+            "MessageIntent": "positive",
+            "displayState": "IN_STOCK",
+            "intent": "positive",
+            "enableFlipkartAdvantage": true,
+            "enableOfferTag": true,
+            "enableVisualDiscovery": false,
+            "enableWishlist": true,
+            "showSecondaryTitle": true,
+            "swatchAvailableOnBrowsePage": true
+        },
+        "grade": {
+            "color": null,
+            "id": null,
+            "name": null,
+            "shortDesc": null
+        },
+        "id": "TSHG9RAT8RJP4JSJ",
+        "itemId": "ITM3A1E10E363CC0",
+        "media": {
+            "images": [
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/ksc46fk0/t-shirt/t/y/p/xs-wmb-girls-shoppie-original-imag5xe3sdhgg8sg.jpeg?q={@quality}",
+                    "width": null
+                },
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/kyj0vbk0/top/b/v/s/m-mp-girls-shoppie-original-imagaqhbgyyqbgee.jpeg?q={@quality}",
+                    "width": null
+                },
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/kyj0vbk0/top/u/c/n/m-mp-girls-shoppie-original-imagaqhbsxg6ve2m.jpeg?q={@quality}",
+                    "width": null
+                },
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/ksc46fk0/t-shirt/m/w/n/xs-wmb-girls-shoppie-original-imag5xe3u9egzt8w.jpeg?q={@quality}",
+                    "width": null
+                },
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/kyj0vbk0/top/z/m/e/m-mp-girls-shoppie-original-imagaqhbghxz8m3x.jpeg?q={@quality}",
+                    "width": null
+                },
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/kz065jk0/t-shirt/7/f/s/l-mmt-girls-shoppie-original-imagb3rhwm4xfzmm.jpeg?q={@quality}",
+                    "width": null
+                }
+            ]
+        },
+        "pricing": {
+            "type": "ListingPriceValue",
+            "deliveryCharge": {
+                "currency": "INR",
+                "decimalValue": "0.00",
+                "discount": null,
+                "downpaymentRate": 0,
+                "downpaymentRequired": false,
+                "name": "Delivery Charges",
+                "priceType": null,
+                "strikeOff": false,
+                "value": 0
+            },
+            "discountAmount": 799,
+            "extraDiscount": null,
+            "finalPrice": {
+                "currency": "INR",
+                "decimalValue": "200.00",
+                "discount": null,
+                "downpaymentRate": 0,
+                "downpaymentRequired": false,
+                "name": "Total",
+                "priceType": null,
+                "strikeOff": false,
+                "value": 200
+            },
+            "finalSavingsText": null,
+            "knowMore": null,
+            "listingPriceType": null,
+            "partPriceInfo": null,
+            "plusPriceInfo": null,
+            "priceDescriptions": null,
+            "pricePerUnit": null,
+            "priceTags": null,
+            "prices": [
+                {
+                    "currency": "INR",
+                    "decimalValue": "999.00",
+                    "discount": 79,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Selling Price",
+                    "priceType": "FSP",
+                    "strikeOff": true,
+                    "value": 999
+                },
+                {
+                    "currency": "INR",
+                    "decimalValue": "200.00",
+                    "discount": null,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Special Price",
+                    "priceType": "SPECIAL_PRICE",
+                    "strikeOff": false,
+                    "value": 200
+                }
+            ]
+        },
+        "productBrand": "GIRLS SHOPPIE",
+        "productCardTagDetails": [
+            {
+                "image": {
+                    "type": "ImageValue",
+                    "dynamicImageUrl": "https://rukminim1.flixcart.com/www/{@width}/{@height}/promos/21/07/2017/e8625e14-3277-4f16-a4d4-df8ed525905b.png?q={@quality}",
+                    "height": 0,
+                    "width": 0
+                },
+                "tagDetails": null,
+                "type": "F_ASSURED"
+            }
+        ],
+        "rating": {
+            "type": "RatingValue",
+            "average": 3.9,
+            "base": 5,
+            "breakup": [
+                456,
+                289,
+                529,
+                798,
+                2207
+            ],
+            "count": 4279,
+            "histogramBaseCount": 2207,
+            "reviewCount": 376
+        },
+        "smartUrl": "https://dl.flipkart.com/dl/girls-shoppie-color-block-women-round-neck-black-maroon-t-shirt/p/itm3a1e10e363cc0?pid=TSHG9RAT8RJP4JSJ",
+        "tags": [],
+        "titles": {
+            "coSubtitle": "Size: XS",
+            "newTitle": "Color Block Women Round Neck Black, Maroon T-Shirt",
+            "superTitle": "GIRLS SHOPPIE",
+            "title": "GIRLS SHOPPIE Color Block Women Round Neck Black, Maroon T-Shirt"
+        },
+        "vertical": "t_shirt"
+    },
+    {
+        "type": "ProductSummaryValue",
+        "idealFor": "WOMEN",
+        "availability": {
+            "MessageIntent": "positive",
+            "displayState": "IN_STOCK",
+            "intent": "positive",
+            "enableFlipkartAdvantage": true,
+            "enableOfferTag": true,
+            "enableVisualDiscovery": false,
+            "enableWishlist": true,
+            "showSecondaryTitle": true,
+            "swatchAvailableOnBrowsePage": true
+        },
+        "grade": {
+            "color": null,
+            "id": null,
+            "name": null,
+            "shortDesc": null
+        },
+        "id": "TSHG2GY8SGWYZ38Z",
+        "itemId": "ITMC58CE009206E8",
+        "media": {
+            "images": [
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/knunf680/t-shirt/u/c/f/s-crp-nvr-viral-trend-original-imag2gy84dsejzax.jpeg?q={@quality}",
+                    "width": null
+                },
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/knunf680/t-shirt/c/0/w/xl-crp-nvr-viral-trend-original-imag2gy84kzakbyq.jpeg?q={@quality}",
+                    "width": null
+                },
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/knunf680/t-shirt/z/r/6/s-crp-nvr-viral-trend-original-imag2gy8ym7q42rw.jpeg?q={@quality}",
+                    "width": null
+                },
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/knunf680/t-shirt/k/x/j/s-crp-nvr-viral-trend-original-imag2gy8yuh5wtt7.jpeg?q={@quality}",
+                    "width": null
+                },
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/knunf680/t-shirt/r/z/n/xl-crp-nvr-viral-trend-original-imag2gy85bghzfgs.jpeg?q={@quality}",
+                    "width": null
+                },
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/knunf680/t-shirt/s/x/b/l-crp-nvr-viral-trend-original-imag2gy8zz9ntz5m.jpeg?q={@quality}",
+                    "width": null
+                }
+            ]
+        },
+        "pricing": {
+            "type": "ListingPriceValue",
+            "deliveryCharge": {
+                "currency": "INR",
+                "decimalValue": "0.00",
+                "discount": null,
+                "downpaymentRate": 0,
+                "downpaymentRequired": false,
+                "name": "Delivery Charges",
+                "priceType": null,
+                "strikeOff": false,
+                "value": 0
+            },
+            "discountAmount": 1066,
+            "extraDiscount": null,
+            "finalPrice": {
+                "currency": "INR",
+                "decimalValue": "183.00",
+                "discount": null,
+                "downpaymentRate": 0,
+                "downpaymentRequired": false,
+                "name": "Total",
+                "priceType": null,
+                "strikeOff": false,
+                "value": 183
+            },
+            "finalSavingsText": null,
+            "knowMore": null,
+            "listingPriceType": null,
+            "partPriceInfo": null,
+            "plusPriceInfo": null,
+            "priceDescriptions": null,
+            "pricePerUnit": null,
+            "priceTags": null,
+            "prices": [
+                {
+                    "currency": "INR",
+                    "decimalValue": "1249.00",
+                    "discount": 85,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Selling Price",
+                    "priceType": "FSP",
+                    "strikeOff": true,
+                    "value": 1249
+                },
+                {
+                    "currency": "INR",
+                    "decimalValue": "183.00",
+                    "discount": null,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Special Price",
+                    "priceType": "SPECIAL_PRICE",
+                    "strikeOff": false,
+                    "value": 183
+                }
+            ]
+        },
+        "productBrand": "Viral Trend",
+        "productCardTagDetails": [
+            {
+                "image": {
+                    "type": "ImageValue",
+                    "dynamicImageUrl": "https://rukminim1.flixcart.com/www/{@width}/{@height}/promos/21/07/2017/e8625e14-3277-4f16-a4d4-df8ed525905b.png?q={@quality}",
+                    "height": 0,
+                    "width": 0
+                },
+                "tagDetails": null,
+                "type": "F_ASSURED"
+            }
+        ],
+        "rating": {
+            "type": "RatingValue",
+            "average": 4.3,
+            "base": 5,
+            "breakup": [
+                286,
+                217,
+                618,
+                1304,
+                3464
+            ],
+            "count": 5889,
+            "histogramBaseCount": 3464,
+            "reviewCount": 648
+        },
+        "smartUrl": "https://dl.flipkart.com/dl/viral-trend-printed-women-round-neck-light-green-t-shirt/p/itmc58ce009206e8?pid=TSHG2GY8SGWYZ38Z",
+        "tags": [],
+        "titles": {
+            "coSubtitle": "Size: S",
+            "newTitle": "Printed Women Round Neck Light Green T-Shirt",
+            "superTitle": "Viral Trend",
+            "title": "Viral Trend Printed Women Round Neck Light Green T-Shirt"
+        },
+        "vertical": "t_shirt"
+    },
+    {
+        "type": "ProductSummaryValue",
+        "idealFor": "WOMEN",
+        "availability": {
+            "MessageIntent": "positive",
+            "displayState": "IN_STOCK",
+            "intent": "positive",
+            "enableFlipkartAdvantage": true,
+            "enableOfferTag": true,
+            "enableVisualDiscovery": false,
+            "enableWishlist": true,
+            "showSecondaryTitle": true,
+            "swatchAvailableOnBrowsePage": true
+        },
+        "grade": {
+            "color": null,
+            "id": null,
+            "name": null,
+            "shortDesc": null
+        },
+        "id": "TSHG2GY8Y8Z29FFA",
+        "itemId": "ITM743DB5E66DDF4",
+        "media": {
+            "images": [
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/knunf680/t-shirt/6/v/r/m-crp-gt3-viral-trend-original-imag2gy8uafdhvnw.jpeg?q={@quality}",
+                    "width": null
+                },
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/knunf680/t-shirt/7/h/4/m-crp-gt3-viral-trend-original-imag2gy87j4gb8ah.jpeg?q={@quality}",
+                    "width": null
+                },
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/knunf680/t-shirt/7/1/q/m-crp-gt3-viral-trend-original-imag2gy8yfgbxkkr.jpeg?q={@quality}",
+                    "width": null
+                },
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/knunf680/t-shirt/9/s/l/m-crp-gt3-viral-trend-original-imag2gy8ssqab8xz.jpeg?q={@quality}",
+                    "width": null
+                },
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/knunf680/t-shirt/9/1/f/m-crp-gt3-viral-trend-original-imag2gy8fhhsvhna.jpeg?q={@quality}",
+                    "width": null
+                }
+            ]
+        },
+        "pricing": {
+            "type": "ListingPriceValue",
+            "deliveryCharge": {
+                "currency": "INR",
+                "decimalValue": "0.00",
+                "discount": null,
+                "downpaymentRate": 0,
+                "downpaymentRequired": false,
+                "name": "Delivery Charges",
+                "priceType": null,
+                "strikeOff": false,
+                "value": 0
+            },
+            "discountAmount": 1066,
+            "extraDiscount": null,
+            "finalPrice": {
+                "currency": "INR",
+                "decimalValue": "183.00",
+                "discount": null,
+                "downpaymentRate": 0,
+                "downpaymentRequired": false,
+                "name": "Total",
+                "priceType": null,
+                "strikeOff": false,
+                "value": 183
+            },
+            "finalSavingsText": null,
+            "knowMore": null,
+            "listingPriceType": null,
+            "partPriceInfo": null,
+            "plusPriceInfo": null,
+            "priceDescriptions": null,
+            "pricePerUnit": null,
+            "priceTags": null,
+            "prices": [
+                {
+                    "currency": "INR",
+                    "decimalValue": "1249.00",
+                    "discount": 85,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Selling Price",
+                    "priceType": "FSP",
+                    "strikeOff": true,
+                    "value": 1249
+                },
+                {
+                    "currency": "INR",
+                    "decimalValue": "183.00",
+                    "discount": null,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Special Price",
+                    "priceType": "SPECIAL_PRICE",
+                    "strikeOff": false,
+                    "value": 183
+                }
+            ]
+        },
+        "productBrand": "Viral Trend",
+        "productCardTagDetails": [
+            {
+                "image": {
+                    "type": "ImageValue",
+                    "dynamicImageUrl": "https://rukminim1.flixcart.com/www/{@width}/{@height}/promos/21/07/2017/e8625e14-3277-4f16-a4d4-df8ed525905b.png?q={@quality}",
+                    "height": 0,
+                    "width": 0
+                },
+                "tagDetails": null,
+                "type": "F_ASSURED"
+            }
+        ],
+        "rating": {
+            "type": "RatingValue",
+            "average": 4.3,
+            "base": 5,
+            "breakup": [
+                286,
+                217,
+                618,
+                1304,
+                3464
+            ],
+            "count": 5889,
+            "histogramBaseCount": 3464,
+            "reviewCount": 648
+        },
+        "smartUrl": "https://dl.flipkart.com/dl/viral-trend-printed-women-round-neck-black-t-shirt/p/itm743db5e66ddf4?pid=TSHG2GY8Y8Z29FFA",
+        "tags": [],
+        "titles": {
+            "coSubtitle": "Size: S",
+            "newTitle": "Printed Women Round Neck Black T-Shirt",
+            "superTitle": "Viral Trend",
+            "title": "Viral Trend Printed Women Round Neck Black T-Shirt"
+        },
+        "vertical": "t_shirt"
+    },
+    {
+        "type": "ProductSummaryValue",
+        "idealFor": "WOMEN",
+        "availability": {
+            "MessageIntent": "positive",
+            "displayState": "IN_STOCK",
+            "intent": "positive",
+            "enableFlipkartAdvantage": true,
+            "enableOfferTag": true,
+            "enableVisualDiscovery": false,
+            "enableWishlist": true,
+            "showSecondaryTitle": true,
+            "swatchAvailableOnBrowsePage": true
+        },
+        "grade": {
+            "color": null,
+            "id": null,
+            "name": null,
+            "shortDesc": null
+        },
+        "id": "TSHFZPBQ3GX9MAZS",
+        "itemId": "ITMF1D3845211AAD",
+        "media": {
+            "images": [
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/ktd9mkw0/t-shirt/q/h/j/l-necktop-red-base-41-original-imag6qdhgygmybkh.jpeg?q={@quality}",
+                    "width": null
+                },
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/ktd9mkw0/t-shirt/n/a/d/l-necktop-red-base-41-original-imag6qdhg5mmwehz.jpeg?q={@quality}",
+                    "width": null
+                },
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/ktd9mkw0/t-shirt/6/d/y/l-necktop-red-base-41-original-imag6qdhyqpczxng.jpeg?q={@quality}",
+                    "width": null
+                },
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/ktd9mkw0/t-shirt/z/v/z/l-necktop-red-base-41-original-imag6qdhpxqeebuv.jpeg?q={@quality}",
+                    "width": null
+                }
+            ]
+        },
+        "pricing": {
+            "type": "ListingPriceValue",
+            "deliveryCharge": {
+                "currency": "INR",
+                "decimalValue": "0.00",
+                "discount": null,
+                "downpaymentRate": 0,
+                "downpaymentRequired": false,
+                "name": "Delivery Charges",
+                "priceType": null,
+                "strikeOff": false,
+                "value": 0
+            },
+            "discountAmount": 818,
+            "extraDiscount": null,
+            "finalPrice": {
+                "currency": "INR",
+                "decimalValue": "181.00",
+                "discount": null,
+                "downpaymentRate": 0,
+                "downpaymentRequired": false,
+                "name": "Total",
+                "priceType": null,
+                "strikeOff": false,
+                "value": 181
+            },
+            "finalSavingsText": null,
+            "knowMore": null,
+            "listingPriceType": null,
+            "partPriceInfo": null,
+            "plusPriceInfo": null,
+            "priceDescriptions": null,
+            "pricePerUnit": null,
+            "priceTags": null,
+            "prices": [
+                {
+                    "currency": "INR",
+                    "decimalValue": "999.00",
+                    "discount": 81,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Selling Price",
+                    "priceType": "FSP",
+                    "strikeOff": true,
+                    "value": 999
+                },
+                {
+                    "currency": "INR",
+                    "decimalValue": "181.00",
+                    "discount": null,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Special Price",
+                    "priceType": "SPECIAL_PRICE",
+                    "strikeOff": false,
+                    "value": 181
+                }
+            ]
+        },
+        "productBrand": "BASE 41",
+        "productCardTagDetails": [
+            {
+                "image": {
+                    "type": "ImageValue",
+                    "dynamicImageUrl": "https://rukminim1.flixcart.com/www/{@width}/{@height}/promos/21/07/2017/e8625e14-3277-4f16-a4d4-df8ed525905b.png?q={@quality}",
+                    "height": 0,
+                    "width": 0
+                },
+                "tagDetails": null,
+                "type": "F_ASSURED"
+            }
+        ],
+        "rating": {
+            "type": "RatingValue",
+            "average": 4,
+            "base": 5,
+            "breakup": [
+                2792,
+                2104,
+                4914,
+                8268,
+                17660
+            ],
+            "count": 35738,
+            "histogramBaseCount": 17660,
+            "reviewCount": 4356
+        },
+        "smartUrl": "https://dl.flipkart.com/dl/base-41-solid-women-round-neck-red-t-shirt/p/itmf1d3845211aad?pid=TSHFZPBQ3GX9MAZS",
+        "tags": [],
+        "titles": {
+            "coSubtitle": "Size: S",
+            "newTitle": "Solid Women Round Neck Red T-Shirt",
+            "superTitle": "BASE 41",
+            "title": "BASE 41 Solid Women Round Neck Red T-Shirt"
+        },
+        "vertical": "t_shirt"
+    },
+    {
+        "type": "ProductSummaryValue",
+        "idealFor": "WOMEN",
+        "availability": {
+            "MessageIntent": "positive",
+            "displayState": "IN_STOCK",
+            "intent": "positive",
+            "enableFlipkartAdvantage": true,
+            "enableOfferTag": true,
+            "enableVisualDiscovery": false,
+            "enableWishlist": true,
+            "showSecondaryTitle": true,
+            "swatchAvailableOnBrowsePage": true
+        },
+        "grade": {
+            "color": null,
+            "id": null,
+            "name": null,
+            "shortDesc": null
+        },
+        "id": "TSHG5GT5BFV9PBXF",
+        "itemId": "ITMAA4AD69E77053",
+        "media": {
+            "images": [
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/krtjgcw0/top/o/c/0/s-tsh-cartoon-wht-juneberry-original-imag5gqyp4xbsty4.jpeg?q={@quality}",
+                    "width": null
+                },
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/krtjgcw0/top/g/y/u/s-tsh-cartoon-wht-juneberry-original-imag5gqyuhuhuuzc.jpeg?q={@quality}",
+                    "width": null
+                },
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/krtjgcw0/top/u/t/d/s-tsh-cartoon-wht-juneberry-original-imag5gqyhyj2yyhx.jpeg?q={@quality}",
+                    "width": null
+                },
+                {
+                    "aspectRatio": "5:6",
+                    "contentInfo": null,
+                    "height": null,
+                    "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/krtjgcw0/top/3/i/l/s-tsh-cartoon-wht-juneberry-original-imag5gqyyzwg4b3g.jpeg?q={@quality}",
+                    "width": null
+                }
+            ]
+        },
+        "pricing": {
+            "type": "ListingPriceValue",
+            "deliveryCharge": {
+                "currency": "INR",
+                "decimalValue": "0.00",
+                "discount": null,
+                "downpaymentRate": 0,
+                "downpaymentRequired": false,
+                "name": "Delivery Charges",
+                "priceType": null,
+                "strikeOff": false,
+                "value": 0
+            },
+            "discountAmount": 925,
+            "extraDiscount": null,
+            "finalPrice": {
+                "currency": "INR",
+                "decimalValue": "274.00",
+                "discount": null,
+                "downpaymentRate": 0,
+                "downpaymentRequired": false,
+                "name": "Total",
+                "priceType": null,
+                "strikeOff": false,
+                "value": 274
+            },
+            "finalSavingsText": null,
+            "knowMore": null,
+            "listingPriceType": null,
+            "partPriceInfo": null,
+            "plusPriceInfo": null,
+            "priceDescriptions": null,
+            "pricePerUnit": null,
+            "priceTags": null,
+            "prices": [
+                {
+                    "currency": "INR",
+                    "decimalValue": "1199.00",
+                    "discount": 77,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Selling Price",
+                    "priceType": "FSP",
+                    "strikeOff": true,
+                    "value": 1199
+                },
+                {
+                    "currency": "INR",
+                    "decimalValue": "274.00",
+                    "discount": null,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Special Price",
+                    "priceType": "SPECIAL_PRICE",
+                    "strikeOff": false,
+                    "value": 274
+                }
+            ]
+        },
+        "productBrand": "JUNEBERRY",
+        "productCardTagDetails": [
+            {
+                "image": {
+                    "type": "ImageValue",
+                    "dynamicImageUrl": "https://rukminim1.flixcart.com/www/{@width}/{@height}/promos/21/07/2017/e8625e14-3277-4f16-a4d4-df8ed525905b.png?q={@quality}",
+                    "height": 0,
+                    "width": 0
+                },
+                "tagDetails": null,
+                "type": "F_ASSURED"
+            }
+        ],
+        "rating": {
+            "type": "RatingValue",
+            "average": 4.3,
+            "base": 5,
+            "breakup": [
+                12,
+                13,
+                36,
+                94,
+                220
+            ],
+            "count": 375,
+            "histogramBaseCount": 220,
+            "reviewCount": 30
+        },
+        "smartUrl": "https://dl.flipkart.com/dl/juneberry-printed-women-round-neck-white-t-shirt/p/itmaa4ad69e77053?pid=TSHG5GT5BFV9PBXF",
+        "tags": [],
+        "titles": {
+            "coSubtitle": "Size: XL",
+            "newTitle": "Printed Women Round Neck White T-Shirt",
+            "superTitle": "JUNEBERRY",
+            "title": "JUNEBERRY Printed Women Round Neck White T-Shirt"
+        },
+        "vertical": "t_shirt"
+    }
+]
